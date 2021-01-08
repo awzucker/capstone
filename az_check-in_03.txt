@@ -1,0 +1,79 @@
+Adam Zucker
+DSIR-1019 Capstone
+
+
+CONTACT:
+* The Pudding: data and insight! Explain myself and my project succinctly
+* Ishan Nagpal | inagpal2@illinois.edu: Experience with Spotify’s API and building a recommender system
+* Sara Moore | Ronin | (email): Plan of attack?
+* Alix Rosenberg | (email/LinkedIn): (Director, Artist Strategy at Ninja Tune): No longer with Spotify, but could have valuable insight on market trends and important metrics
+* Joe Kelley | (phone/text): data on global, regional listening trends
+* Jacob Bergson | (phone/text): metric for density in a mix? Alix Rosenberg’s email? Most interesting or telling metrics Spotify generates?
+* Aaron Nevezie | (phone/text): metric for density in a mix? Most interesting or telling metrics Spotify generates?
+
+
+TO DO:
+* Start learning Tekore and Spotify’s API ASAP
+* Start learning Librosa ASAP
+* Test a couple popular songs in Librosa and compare the generated metrics to Spotify’s metrics. THIS IS VERY IMPORTANT!
+* Problem Statement
+* Investigate the extent and data availability of Spotify’s regional top songs
+* Investigate the data availability of a Spotify artist’s and song’s geographical and demographic popularity
+* Start building playlists
+* Gather list of top 200 global artists
+   * NOTE: In the project, I should explain why I exclude genre: 
+Built with data from Spotify, the web app Every Noise at Once displays the over 5000 genres of music currently represented on Spotify. Based on this ever-growing number, and with 15 years of experience in the music industry as an artist, writer, and engineer, I’ve come to believe that the concept of genre has failed to adequately classify and capture the nuance of music created around the world: especially as it relates to marketing your music as a new artist.
+
+
+I think a better way to approach marketing for a new artist is to use a range of sonic metrics to compare the statistical similarity of a new artist’s song to globally trending artists and songs. In doing so, I hope to isolate locations and demographics in which music resembling the new artist’s song performs well, thus boosting the efficacy of inexpensive (Instagram and Facebook ads), independent, artist-led marketing campaigns.
+
+
+
+
+
+Problem Statement:
+
+Need to compile into something concise
+
+
+
+Questions to Answer:
+* What artist(s) does your music most resemble? 
+* Am I looking at the general metrics of an artist’s catalogue
+* How and where do you market yourself based on this data? 
+* How can you find your target audience?
+* Can I get all the data I need? Particularly:
+   * Listener demographics:
+      * Age: can be an integer or class (binned ranges)
+      * Location: country or region (as granular as possible)
+      * “Taste” Profile: see
+
+
+This is a 2 part project:
+1. Part 1: Comparing new audio to existing songs
+   1. This is a recommender system - I’m comparing input data (new music) to existing data
+   2. Cosine similarity between vectors is what I’ll want to look at primarily (see Lesson 8.07)
+   3. Before going too far, test a song from Spotify in Librosa, and see if the corresponding metrics are close. Regardless, the different analysis algorithms (Spotify’s proprietary vs Librosa) need to be added as a caveat to the initial build.
+2. Part 2: Matching artist “sounds like” data to market data
+   1. The majority of the modeling is taking place in the first step - this step is largely correlating sonic qualities to market locations and demographics.
+
+
+Data Collection & Analysis Tools:
+* Spotify API
+* Librosa
+
+
+Data:
+* Spotify track data/analysis for popular artists (top 500?)
+* Location of plays on Spotify (by city, country, region?)
+* Billboard global charts
+
+
+
+
+
+Look at cosine similarity, some distance-based metric between feature vectors generated with music input into librosa and spotify’s data
+
+
+
+Show data from Spotify and Librosa for the same song - do the corresponding analyses match relatively well? Add as a caveat in the presentation.

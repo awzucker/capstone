@@ -1,0 +1,46 @@
+ADAM ZUCKER
+CAPSTONE: Lightning Talks
+GA DSIR-1019
+
+
+1.	User listening preferences on Spotify.
+Based on a training set of playlists and their metadata (accessed via Spotify’s API, and using the Spotipy Python library), I’ll create a model that classifies the listening preferences of users based on their favorited songs or playlists they’ve followed or created. Gatherable metrics include:
+•	Energy
+•	Liveness
+•	Instrumentalness
+•	Acousticness
+•	Valence
+•	Tempo
+•	Duration
+•	Loudness
+•	Danceability
+•	Speechiness
+
+2.	Liverpool, English Soccer, and COVID
+I’ll build a predictive model, based on the two seasons preceding COVID, the season split in half by COVID, and the current season that started during COVID, to analyze the effect of fans in the stadium and the condensed schedule on team/player performance.
+•	Impact of not having fans in the stadium
+•	Score lines
+•	Player performance
+•	Goals per game
+•	Impact of clustered schedule
+•	Injuries
+•	Unavailable players/players resting after international tournaments
+•	Champions League
+•	International play
+•	Europa League
+
+
+3.	Implement a classification model using NLP to determine the veracity of news media.
+Based on a pre-classified set of news data I’ll build a classification model using NLP to determine whether a news story is fake or real, and alert end users as to the reliability of the source they’re reading.
+
+
+4.	Analyze and process song lyrics using NLP, and then allow listeners to search based on sentiment, lyrical content, topic, etc.
+
+Predict genre based on lyrical content?
+
+Compare lyrics of Billboard top 25 most popular songs every year from 1960-present?
+•	How has popular language changed over the years
+
+DATA:
+•	Pulling lyrics from Google?
+•	Are there any lyric archives?

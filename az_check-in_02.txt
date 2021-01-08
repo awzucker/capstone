@@ -1,0 +1,20 @@
+﻿Adam Zucker
+DSIR-1019
+Capstone Check-In 2
+
+
+Problem Statement:
+
+
+Machine learning has long been a mainstay in the streaming music industry, from Pandora, to Spotify, SoundCloud, Apple Music, and many more. All these services have an option to auto-play recommended songs, but I believe this system could be improved with the combination of data, and a trained musical ear.
+
+
+
+
+Data:
+* I plan to create at least 50 playlists of 100 songs each, divided by era and genre, and similar sonic qualities. Given my history in the music industry, I’ll rely on my ears, in addition to hard data pulled from Spotify via their API to generate these playlists.
+* Once I have my playlists, I’ll use the Spotify API to pull metadata from my playlists and chosen songs, and classify them based on a number of factors.
+
+
+Modeling:
+* I plan to use classification models to place like songs together, then a recommender system to generate suggestions for related songs and playlists.
