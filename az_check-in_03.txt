@@ -53,9 +53,11 @@ This is a 2 part project:
 1. Part 1: Comparing new audio to existing songs
    1. This is a recommender system - I’m comparing input data (new music) to existing data
    2. Cosine similarity between vectors is what I’ll want to look at primarily (see Lesson 8.07)
-   3. Before going too far, test a song from Spotify in Librosa, and see if the corresponding metrics are close. Regardless, the different analysis algorithms (Spotify’s proprietary vs Librosa) need to be added as a caveat to the initial build.
+   3. Before going too far, test a song from Spotify in Librosa, and see if the corresponding metrics are close. Regardless, the different 
+   analysis algorithms (Spotify’s proprietary vs Librosa) need to be added as a caveat to the initial build.
 2. Part 2: Matching artist “sounds like” data to market data
-   1. The majority of the modeling is taking place in the first step - this step is largely correlating sonic qualities to market locations and demographics.
+   1. The majority of the modeling is taking place in the first step - this step is largely correlating sonic qualities to market locations 
+   and demographics.
 
 
 Data Collection & Analysis Tools:
