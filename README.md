@@ -1,5 +1,5 @@
-
-# ![]() Project Title
+![]()
+# Project Title
 
 ### The Problem
 
@@ -8,10 +8,18 @@ The advent of affordable tools for home recording over the last 20 years has mad
 **In this study, I intend to create a recommender system to show similarities between the music of a new artist and that of popular artists around the globe, in order to generate basic recommendations to best connect new artists with new fans. I'll base this model on data from hundreds of thousands of songs hosted on the popular streaming platform Spotify, along with metrics I'll extract from a new artist's music using a Python library called Librosa.**
 
 ---
-### Background & Research
 
+### Contents
+| Notebook | File Name | Description |
+|----|----|----|
+|**1**|[01_data_collection_and_cleaning.ipynb](code/01_data_collection_and_cleaning.ipynb)|Spotify data imports, collection, and cleaning, and final Spotify dataframe export|
+|**2**|[02_feature_engineering_and_comparisons.ipynb](code/02_feature_engineering_and_comparisons.ipynb)|Spotify dataframe feature selection and engineering; metric comparisons between Spotify and Librosa|
+|**3**|[03_EDA.ipynb](code/03_EDA.ipynb)|Exploratory data analysis and visualizations|
+|**4**|[04_recommeder_sys.ipynb](code/04_recommeder_sys.ipynb)|Recommender system based on Spotify metrics and Librosa-generated metrics|
+|**5**|[05_appendix.ipynb](code/05_appendix.ipynb)|Appendix with examples of questionable Spotify and Librosa metrics, caveats, and glossary|
 
 ---
+
 ### Datasets Used
 
 * Spotify Song Data from [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv)
@@ -19,10 +27,9 @@ The advent of affordable tools for home recording over the last 20 years has mad
 *
 
 ---
+### Background & Research
 
-### Data Dictionary
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
+
 
 
 ---
@@ -44,6 +51,7 @@ The advent of affordable tools for home recording over the last 20 years has mad
 * [Spotify API](https://developer.spotify.com/documentation/web-api/reference/)
 * [Librosa & Librosa Documentation](https://librosa.org/doc/latest/index.html)
 * [Every Noise At Once](http://everynoise.com/engenremap.html)
+* [*Recommendation Systems: Principles, Methods and Evaluation*](https://www.sciencedirect.com/science/article/pii/S1110866515000341), F.O. Isinkaye, Y.O. Folajimi, B.A. Ojokoh
 * Jacob Bergson (engineer at [The Bunker](https://www.thebunkerstudio.com/) studio)
 * Joseph Kelley (former Director of A&R at [Billboard](https://www.billboard.com/))
 * [*What Data Science Can Tell Us About Mainstream Music*](https://towardsdatascience.com/what-data-science-can-tell-us-about-mainstream-music-e56b20e00a25) by Ishan Nagpal on Medium
