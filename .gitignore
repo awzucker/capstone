@@ -1,2 +1,2 @@
 # Ignoring wav files
-/songs_test
+./songs_test/
