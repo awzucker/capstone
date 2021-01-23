@@ -23,13 +23,14 @@ The advent of affordable tools for home recording over the last 20 years has mad
 ### Datasets Used
 
 * Spotify Song Data from [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv)
-*
-*
+* Data I collected via [Librosa](https://librosa.org/doc/latest/index.html#), a Python library for audio and digital signal processing (*DSP*)
 
 ---
 ### Background & Research
 
+With over 15 years of experience in the music industry, first as a musician and performer, and later as a sound designer, audio engineer, and producer, I believe I'm in a unique position to address this problem. I have an intimate knowledge of the process of creating music and much of the theory behind it on both sides of the mixing board, as well as the struggles of finding and connecting with your target audience as a new artist. You can find more information about my history in the industry on [LinkedIn](https://www.linkedin.com/in/awzucker/), and samples of my recent work as part of a collaborative project called [NO EVENS](https://noevens.com/).
 
+I'm also fortunate enough to have many long-time friends in the industry, two of whom I spoke to regarding this project: [Jacob Bergson](https://www.tautmusic.com/), an independent musician and audio engineer at [The Bunker](https://www.thebunkerstudio.com/) recording studio in Brooklyn, NY, and [Joseph Kelley](https://www.linkedin.com/in/jjkelley/), the former Executive Director of Artist Relations at [Billboard](https://www.billboard.com/). Jacob was able to provide me with excellent insight on his extensive experience engineering multiple genres of music, which helped immensely as I decided how to engineer my own metrics to represent some of the more intangible qualities of music. Joe, on the other hand, has a wealth of knowledge to offer on the business landscape of the music industry: where and among what demographics artists are trending, what makes artists stand out in a digital landscape where anyone can easily post their music online, and so on.
 
 
 ---
