@@ -56,6 +56,7 @@ I'm also fortunate enough to have many long-time friends in the industry, two of
 * [Every Noise At Once](http://everynoise.com/engenremap.html)
 * [*Recommendation Systems: Principles, Methods and Evaluation*](https://www.sciencedirect.com/science/article/pii/S1110866515000341), F.O. Isinkaye, Y.O. Folajimi, B.A. Ojokoh
 * Jacob Bergson (engineer at [The Bunker](https://www.thebunkerstudio.com/) studio)
+* Matt Zucker (cellist with the [House of Time](https://www.houseoftimemusic.org/mattzucker) Baroque ensemble, MFA in cello performance from the [Eastman School of Music](https://www.esm.rochester.edu/) and MFA in Baroque music from [The Juilliard School](https://www.juilliard.edu/))
 * Joseph Kelley (former Director of A&R at [Billboard](https://www.billboard.com/))
 * [*What Data Science Can Tell Us About Mainstream Music*](https://towardsdatascience.com/what-data-science-can-tell-us-about-mainstream-music-e56b20e00a25) by Ishan Nagpal on Medium
 * 15+ years of personal experience as a sound designer, audio engineer, musician, and producer, and a lifetime love of recorded sound
