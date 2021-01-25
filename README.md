@@ -1,7 +1,7 @@
 ![](./images/bunker_sontec.jpeg)
 Photo: [*The Bunker*](https://www.thebunkerstudio.com/)
 
-# Project Title
+# The Sound of Science
 
 ### The Problem
 
