@@ -44,7 +44,7 @@ Throughout this project, I also learned that quite a bit of the currently availa
 ---
 ### Analysis Summary
 
-* 
+*
 
 
 ---
@@ -75,5 +75,6 @@ Throughout this project, I also learned that quite a bit of the currently availa
 * Jacob Bergson ([artist](https://www.tautmusic.com/) and engineer at [The Bunker](https://www.thebunkerstudio.com/) studio)
 * Matt Zucker (cellist with the [House of Time](https://www.houseoftimemusic.org/mattzucker) Baroque ensemble, MFA in cello performance from the [Eastman School of Music](https://www.esm.rochester.edu/) and MFA in Baroque music from [The Juilliard School](https://www.juilliard.edu/))
 * Joseph Kelley (former Director of A&R at [Billboard](https://www.billboard.com/))
+* [Valerio Velardo](https://valeriovelardo.com/), expert on AI Audio and Digital Signal Processing
 * [*What Data Science Can Tell Us About Mainstream Music*](https://towardsdatascience.com/what-data-science-can-tell-us-about-mainstream-music-e56b20e00a25) by Ishan Nagpal on Medium
 * 15+ years of personal experience as a sound designer, audio engineer, musician, and producer, and a lifetime love of recorded sound
