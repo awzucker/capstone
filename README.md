@@ -55,6 +55,8 @@ I'm also fortunate enough to have many long-time friends in the industry, two of
 * [Librosa & Librosa Documentation](https://librosa.org/doc/latest/index.html)
 * [Every Noise At Once](http://everynoise.com/engenremap.html)
 * [*Recommendation Systems: Principles, Methods and Evaluation*](https://www.sciencedirect.com/science/article/pii/S1110866515000341), F.O. Isinkaye, Y.O. Folajimi, B.A. Ojokoh
+* [*What's Key For Key? The Krumhansl-Schmuckler Key-Finding Algorithm Reconsidered*](http://davidtemperley.com/wp-content/uploads/2015/11/temperley-mp99.pdf), David Temperley
+* [*Key-Finding Algorithm*](http://rnhart.net/articles/key-finding/), Robert Hart
 * Jacob Bergson ([artist](https://www.tautmusic.com/) and engineer at [The Bunker](https://www.thebunkerstudio.com/) studio)
 * Matt Zucker (cellist with the [House of Time](https://www.houseoftimemusic.org/mattzucker) Baroque ensemble, MFA in cello performance from the [Eastman School of Music](https://www.esm.rochester.edu/) and MFA in Baroque music from [The Juilliard School](https://www.juilliard.edu/))
 * Joseph Kelley (former Director of A&R at [Billboard](https://www.billboard.com/))
