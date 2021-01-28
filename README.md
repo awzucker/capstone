@@ -40,6 +40,8 @@ This project is a product of my immense passion for music and the process of cre
 Due to data accessibility and time constraints, the following notebooks contain the first iteration of the recommender system to determine similarity between an "unheard" song and roughly 60,000 songs collected from Spotify (via [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv)). I certainly hope it gives you some small picture as to what I hope to achieve!
 
 Throughout this project, I also learned that quite a bit of the currently available audio data, in the form of statistical metrics, is flawed to some extent. This is, of course only in my opinion, which is precisely the point - so many qualities of how humans perceive and emotionally react to music are subjective. One song could be in the key of A minor, have a tempo of 107 beats per minute, a 4/4 time signature, an RMS loudness of -8dBF, the same instrumental-to-vocal ratio, and still sound nothing like another song with those exact same metrics. Through my exploration of Spotify's data and the metrics I generated with the help of the Python library [Librosa](https://librosa.org/), I've formed the opinion that, while some of music's intangibles will forever remain intangible, a careful and collective consideration of the intersections the ways in which computers experience music and how that relates to the human experiene of it has amazing potential to help connect artists with fans.
+
+
 ---
 ### Analysis Summary
 
